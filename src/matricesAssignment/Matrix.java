@@ -6,6 +6,7 @@ public class Matrix {
 	int numRows;
 	int numColumns;
 	int data[][];
+	//sup dude
 
 	// Constructor with data for new matrix (automatically determines
 	// dimensions)
