@@ -7,6 +7,8 @@ public class Matrix {
 	int numColumns;
 	int data[][];
 	//sup dude
+	
+	//crack cocaine
 
 	// Constructor with data for new matrix (automatically determines
 	// dimensions)
